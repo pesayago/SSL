@@ -12,7 +12,7 @@
 
 3. Comparar el lenguaje reconocido con el lenguaje constanteEntera que acepta decimales, octales y hexadecimales. ¿Puede ser que uno contenga al otro? Cuál a cuál?
 
-> Si, el lenguaje reconocido del punto anterior esta incluido en el lenguaje constanteEntera es un sub-leguaje del mismo**
+> Si, el lenguaje reconocido del punto anterior esta incluido en el lenguaje constanteEntera es un sub-lenguaje del mismo**
 
 4. ¿Son lenguajes infinitos?
 
