@@ -21,7 +21,13 @@
 > Si, son lenguajes infinitos dado que la cantidad de palabras pertenecientes a esos lenguajes no se puede determinar (tiende a infinito)
 
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
+
+<Es un automata finito con pila
+
 6. ¿Cuál es la menor palabra que reconoce este autómata?
+
+> La menor palabra reconocida es: ab
+
 7. ¿Qué estructura de datos utiliza este autómata?
 8. ¿Con qué etapas del proceso de compilación se relaciona cada uno de estos autómatas?
 9. Teniendo en cuenta está sección del código:
