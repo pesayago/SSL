@@ -3,6 +3,7 @@
 ## Seguir las instrucciones del repositorio: https://github.com/ssl-cursos/maquinas. La idea de la actividad es compilar, ejecutar y revisar el código y contestar las siguientes preguntas.
 
 1. ¿Qué tipo de autómata corresponde a lr-conocido?
+
 ** Seria un AFD que reconoce el lenguaje cuyas palabras de ese lenguaje representan los numeros enteros (tanto positivos como negativos) ** 
 
 2. Diagramar y definir formalmente el autómata.
