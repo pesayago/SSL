@@ -24,6 +24,7 @@ int determinar_estado_para(int estado, char simbolo) {
 }
 ```
 Según el apunte de Identificadores: ¿Qué significa la palabra static? ¿En dónde se guarda?
+
 10. Teniendo en cuenta está sección del código:
 ```
 int es_palabra(const char *palabra) {
