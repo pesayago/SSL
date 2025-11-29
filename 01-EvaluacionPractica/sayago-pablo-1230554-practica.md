@@ -38,12 +38,14 @@ int es_palabra(const char *palabra) {
 ```
 Completar la siguiente tabla:
 
-variable	tipo de dato	sección de la variable	seccion de los datos
-palabra			
-longitud_maxima			
-pila			
-sentido			
-ptr_sentido			
+| Variable	      | Tipo de dato	 | Sección de la variable	| Seccion de los datos |
+|-----------------|------------------|--------------------------|----------------------|
+| palabra		  |	                 |                          |                      |
+| longitud_maxima |			         |                          |                      |
+| pila			  |                  |                          |                      |
+| sentido		  |	                 |                          |                      |  
+| ptr_sentido	  |		             |                          |                      |
+
 Observaciones:
 
 Las secciones son static, stack (puede ser a su vez automatico) y heap.
