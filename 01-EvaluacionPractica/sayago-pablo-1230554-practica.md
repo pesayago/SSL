@@ -29,6 +29,9 @@
 > La menor palabra reconocida es: ab
 
 7. ¿Qué estructura de datos utiliza este autómata?
+
+> Este automata utiliza la estructura de datos pila (colección lineal de elementos que opera bajo el principio de último en entrar, primero en salir (LIFO) )
+
 8. ¿Con qué etapas del proceso de compilación se relaciona cada uno de estos autómatas?
 9. Teniendo en cuenta está sección del código:
 ```
