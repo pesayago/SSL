@@ -1,6 +1,8 @@
 # Evaluación Práctica
 
-## Seguir las instrucciones del repositorio: https://github.com/ssl-cursos/maquinas. La idea de la actividad es compilar, ejecutar y revisar el código y contestar las siguientes preguntas. TP subido a github en https://github.com/pesayago/SSL/blob/main/01-EvaluacionPractica/sayago-pablo-1230554-practica.md
+## Seguir las instrucciones del repositorio: https://github.com/ssl-cursos/maquinas.  La idea de la actividad es compilar, ejecutar y revisar el código y contestar las siguientes preguntas. 
+
+*TP subido a github en https://github.com/pesayago/SSL/blob/main/01-EvaluacionPractica/sayago-pablo-1230554-practica.md*
 
 1. ¿Qué tipo de autómata corresponde a lr-conocido?
 
