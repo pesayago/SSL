@@ -48,5 +48,5 @@ Completar la siguiente tabla:
 
 Observaciones:
 
-Las secciones son static, stack (puede ser a su vez automatico) y heap.
-Una variable puede guardarse en una región pero los datos pueden estar en otra.
+* Las secciones son static, stack (puede ser a su vez automatico) y heap.
+* Una variable puede guardarse en una región pero los datos pueden estar en otra.
