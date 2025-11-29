@@ -22,7 +22,7 @@
 
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
 
-<Es un automata finito con pila
+> Es un automata finito con pila
 
 6. ¿Cuál es la menor palabra que reconoce este autómata?
 
