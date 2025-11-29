@@ -16,7 +16,7 @@ https://drive.google.com/file/d/10mRqmKeFYq-A6R9Mm81ItJ9rtjwTi3N_/view?usp=drive
 
 4. ¿Son lenguajes infinitos?
 
-**Si, son lenguajes infinitos dado que la cantidad de palabras pertenecientes a esos lenguajes no se puede determinar (tiende a infinito)**
+###Si, son lenguajes infinitos dado que la cantidad de palabras pertenecientes a esos lenguajes no se puede determinar (tiende a infinito)
 
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
 6. ¿Cuál es la menor palabra que reconoce este autómata?
