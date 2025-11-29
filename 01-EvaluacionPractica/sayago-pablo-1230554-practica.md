@@ -11,6 +11,9 @@
 https://drive.google.com/file/d/10mRqmKeFYq-A6R9Mm81ItJ9rtjwTi3N_/view?usp=drive_link
 
 3. Comparar el lenguaje reconocido con el lenguaje constanteEntera que acepta decimales, octales y hexadecimales. ¿Puede ser que uno contenga al otro? Cuál a cuál?
+
+**Si, el lenguaje reconocido del punto anterior esta incluido en el lenguaje constanteEntera es un sub-leguaje del mismo**
+
 4. ¿Son lenguajes infinitos
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
 6. ¿Cuál es la menor palabra que reconoce este autómata?
