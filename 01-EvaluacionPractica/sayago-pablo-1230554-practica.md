@@ -26,6 +26,7 @@ int determinar_estado_para(int estado, char simbolo) {
 Según el apunte de Identificadores: ¿Qué significa la palabra static? ¿En dónde se guarda?
 
 10. Teniendo en cuenta está sección del código:
+
 ```
 int es_palabra(const char *palabra) {
     size_t longitud_maxima = strlen(palabra);
@@ -36,3 +37,14 @@ int es_palabra(const char *palabra) {
 }
 ```
 Completar la siguiente tabla:
+
+variable	tipo de dato	sección de la variable	seccion de los datos
+palabra			
+longitud_maxima			
+pila			
+sentido			
+ptr_sentido			
+Observaciones:
+
+Las secciones son static, stack (puede ser a su vez automatico) y heap.
+Una variable puede guardarse en una región pero los datos pueden estar en otra.
