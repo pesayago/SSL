@@ -14,7 +14,10 @@ https://drive.google.com/file/d/10mRqmKeFYq-A6R9Mm81ItJ9rtjwTi3N_/view?usp=drive
 
 **Si, el lenguaje reconocido del punto anterior esta incluido en el lenguaje constanteEntera es un sub-leguaje del mismo**
 
-4. ¿Son lenguajes infinitos
+4. ¿Son lenguajes infinitos?
+
+**Si, son lenguajes infinitos dado que la cantidad de palabras pertenecientes a esos lenguajes no se puede determinar (tiende a infinito)**
+
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
 6. ¿Cuál es la menor palabra que reconoce este autómata?
 7. ¿Qué estructura de datos utiliza este autómata?
