@@ -69,8 +69,8 @@ Completar la siguiente tabla:
 | Variable	      | Tipo de dato	                     | Sección de la variable    | Seccion de los datos |
 |-----------------|--------------------------------------|---------------------------|----------------------|
 | palabra		  |	tipo puntero a tipo de dato char     | Stack                     | Stack                |
-| longitud_maxima |	tipo de dato size_t para representar enteros grandes sin signo  | Stack  | Stack        |
-| pila			  | tipo puntero a tipo de dato t_pila(estructura de dato dinamico) | Stack  | Heap         |
+| longitud_maxima |	tipo de dato size_t para representar enteros grandes sin signo    | Stack  | Stack      |
+| pila			  | tipo puntero a tipo de dato t_pila(estructura de datos dinamicos) | Stack  | Heap       |
 | sentido		  |	tipo de dato entero (integer)        | Stack (automatic)         | Stack                |                  
 | ptr_sentido	  |	tipo puntero a tipo de dato entero   | Stack                     | Stack                |
 
