@@ -33,6 +33,9 @@
 > Este automata utiliza la estructura de datos pila (colección lineal de elementos que opera bajo el principio de último en entrar, primero en salir (LIFO) )
 
 8. ¿Con qué etapas del proceso de compilación se relaciona cada uno de estos autómatas?
+
+> El automatas finitos (convertidos en AFD completo para que puedan implementarse computacionalmente) se relacionan con la etapa de analisis lexico y el automata finito con pila se relaciona con la etapa de analisis sintactico.
+
 9. Teniendo en cuenta está sección del código:
 ```
 int determinar_estado_para(int estado, char simbolo) {
