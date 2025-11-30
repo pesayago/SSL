@@ -34,7 +34,7 @@
 
 8. ¿Con qué etapas del proceso de compilación se relaciona cada uno de estos autómatas?
 
-> El automatas finitos (convertidos en AFD completo para que puedan implementarse computacionalmente) se relacionan con la etapa de analisis lexico y el automata finito con pila se relaciona con la etapa de analisis sintactico.
+> El automata finito (AF convertidos en AFD completo para que pueda implementarse computacionalmente) se relacionan con la etapa de analisis lexico y el automata finito con pila (AFP) se relaciona con la etapa de analisis sintactico.
 
 9. Teniendo en cuenta está sección del código:
 ```
