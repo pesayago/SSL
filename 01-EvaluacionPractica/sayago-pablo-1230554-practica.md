@@ -68,10 +68,10 @@ Completar la siguiente tabla:
 
 | Variable	      | Tipo de dato	                 | Sección de la variable	 | Seccion de los datos |
 |-----------------|----------------------------------|---------------------------|----------------------|
-| palabra		  |	tipo puntero a tipo de dato char |   stack                   | heap, stack , static |
+| palabra		  |	tipo puntero a tipo de dato char | stack                   | heap, stack , static |
 | longitud_maxima |			             |                          |                      |
 | pila			  |                      |                          |                      |
-| sentido		  |	tipo de dato entero (integer)    |   stack                   | stack                |                  
+| sentido		  |	tipo de dato entero (integer)    | stack                   | stack                |                  
 | ptr_sentido	  |		             |                          |                      |
 
 Observaciones:
