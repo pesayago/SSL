@@ -66,13 +66,13 @@ int es_palabra(const char *palabra) {
 ```
 Completar la siguiente tabla:
 
-| Variable	      | Tipo de dato	                   | Sección de la variable    | Seccion de los datos |
-|-----------------|------------------------------------|---------------------------|----------------------|
-| palabra		  |	tipo puntero a tipo de dato char   | stack (automatic)         | heap, stack , static |
-| longitud_maxima |			             |                          |                      |
-| pila			  |                      |                          |                      |
-| sentido		  |	tipo de dato entero (integer)      | stack                     | stack                |                  
-| ptr_sentido	  |	tipo puntero a tipo de dato entero |                           |                      |
+| Variable	      | Tipo de dato	                     | Sección de la variable    | Seccion de los datos |
+|-----------------|--------------------------------------|---------------------------|----------------------|
+| palabra		  |	tipo puntero a tipo de dato char     | Stack                     | Stack                |
+| longitud_maxima |	tipo de dato size_t para representar enteros grandes sin signo  | Stack  | Stack        |
+| pila			  | tipo puntero a tipo de dato t_pila(estructura de dato dinamico) | Stack  | Heap         |
+| sentido		  |	tipo de dato entero (integer)        | Stack (automatic)         | Stack                |                  
+| ptr_sentido	  |	tipo puntero a tipo de dato entero   | Stack                     | Stack                |
 
 Observaciones:
 
