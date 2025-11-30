@@ -22,11 +22,11 @@
 
 5. ¿Qué tipo de autómata corresponde a lic-clasico?
 
-> Es un automata finito con pila
+> Es un automata finito con pila (AFP) que reconoce palabras del lenguaje del tipo "cadenas que empiezan con 'a' y terminan con 'b' y tienen misma cantidad de a's y de b's (a>=N y b>=N, siendo N>=1)
 
 6. ¿Cuál es la menor palabra que reconoce este autómata?
 
-> La menor palabra reconocida es: ab
+> La menor palabra reconocida por este lenguaje es: ab
 
 7. ¿Qué estructura de datos utiliza este autómata?
 
