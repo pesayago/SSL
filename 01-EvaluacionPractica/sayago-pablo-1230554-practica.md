@@ -66,12 +66,12 @@ int es_palabra(const char *palabra) {
 ```
 Completar la siguiente tabla:
 
-| Variable	      | Tipo de dato	 | Sección de la variable	| Seccion de los datos |
-|-----------------|------------------|--------------------------|----------------------|
-| palabra		  |	                 |                          |                      |
-| longitud_maxima |			         |                          |                      |
-| pila			  |                  |                          |                      |
-| sentido		  |	                 |                          |                      |  
+| Variable	      | Tipo de dato	      | Sección de la variable	 | Seccion de los datos |
+|-----------------|-----------------------|--------------------------|----------------------|
+| palabra		  |	puntero a tipo de dato char |                          |               |
+| longitud_maxima |			             |                          |                      |
+| pila			  |                      |                          |                      |
+| sentido		  |	                     |                          |                        
 | ptr_sentido	  |		             |                          |                      |
 
 Observaciones:
