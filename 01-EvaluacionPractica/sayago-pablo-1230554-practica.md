@@ -51,6 +51,8 @@ int determinar_estado_para(int estado, char simbolo) {
 ```
 Según el apunte de Identificadores: ¿Qué significa la palabra static? ¿En dónde se guarda?
 
+> la variable static se almacenan en el segmento de datos estaticos del programa, que es una región de la memoria diferente a la pila y el heap.
+
 10. Teniendo en cuenta está sección del código:
 
 ```
